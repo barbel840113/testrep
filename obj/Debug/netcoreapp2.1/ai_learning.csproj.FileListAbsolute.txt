@@ -1,0 +1,11 @@
+C:\Users\pcintel\Documents\Michal\ai_learning\bin\Debug\netcoreapp2.1\ai_learning.deps.json
+C:\Users\pcintel\Documents\Michal\ai_learning\bin\Debug\netcoreapp2.1\ai_learning.runtimeconfig.json
+C:\Users\pcintel\Documents\Michal\ai_learning\bin\Debug\netcoreapp2.1\ai_learning.runtimeconfig.dev.json
+C:\Users\pcintel\Documents\Michal\ai_learning\bin\Debug\netcoreapp2.1\ai_learning.dll
+C:\Users\pcintel\Documents\Michal\ai_learning\bin\Debug\netcoreapp2.1\ai_learning.pdb
+C:\Users\pcintel\Documents\Michal\ai_learning\obj\Debug\netcoreapp2.1\ai_learning.csprojAssemblyReference.cache
+C:\Users\pcintel\Documents\Michal\ai_learning\obj\Debug\netcoreapp2.1\ai_learning.csproj.CoreCompileInputs.cache
+C:\Users\pcintel\Documents\Michal\ai_learning\obj\Debug\netcoreapp2.1\ai_learning.AssemblyInfoInputs.cache
+C:\Users\pcintel\Documents\Michal\ai_learning\obj\Debug\netcoreapp2.1\ai_learning.AssemblyInfo.cs
+C:\Users\pcintel\Documents\Michal\ai_learning\obj\Debug\netcoreapp2.1\ai_learning.dll
+C:\Users\pcintel\Documents\Michal\ai_learning\obj\Debug\netcoreapp2.1\ai_learning.pdb
